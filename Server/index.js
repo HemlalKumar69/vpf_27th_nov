@@ -18,6 +18,7 @@ https: app.use(
       "http://localhost:3000",
       "https://stupendous-croissant-ed072e.netlify.app",
       "http://localhost:3001",
+      "https://vpf-27th-nov.onrender.com",
     ],
     methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
     preflightContinue: false,

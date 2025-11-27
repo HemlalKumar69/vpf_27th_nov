@@ -24,7 +24,7 @@ export default defineConfig({
     host: true,
     proxy: {
       "/api": {
-        target: "http://localhost:8080",
+        target: "https://vpf-27th-nov.onrender.com",
         changeOrigin: true,
         secure: false,
       },
